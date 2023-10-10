@@ -7,3 +7,4 @@ Projeto consiste num módulo sonar: o servo se movimenta de 0 a 180º, enquanto 
 
 
 ## Ilustração prática:
+![ModuloSonar1](https://github.com/acampospsantos/Projetos-Arduino/assets/54013675/69e18422-23a3-4ec2-8742-8fe395692f1c)

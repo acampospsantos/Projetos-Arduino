@@ -1,4 +1,4 @@
-# Módulo Sonar
+# Teclado de som
 ## Contexto Geral
 Projeto consiste num teclado de som: a partir dos botões é possível simular um teclado.. variando os tons musicais.
 

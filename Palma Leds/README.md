@@ -1,4 +1,4 @@
-# 
+# Palma Leds
 ## Contexto Geral
 Projeto consiste num módulo de som detectar palmas do ambiente e a partir do número de palmas.. ligar os leds. 
 - 1 palma liga o led 1(amarelo)
